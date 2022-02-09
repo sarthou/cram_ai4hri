@@ -1,4 +1,4 @@
-(in-package :pepper-descr)
+(in-package :ai4hri-descr)
  
 (def-fact-group pepper-metadata (robot
                                robot-odom-frame

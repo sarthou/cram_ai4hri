@@ -1,4 +1,4 @@
-(in-package :pepper-descr)
+(in-package :ai4hri-descr)
  
 (defparameter *neck-good-looking-down-state*
   '(("HeadYaw" 0.00)

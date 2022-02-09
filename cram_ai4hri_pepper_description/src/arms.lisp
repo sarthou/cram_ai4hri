@@ -1,4 +1,4 @@
-(in-package :pepper-descr)
+(in-package :ai4hri-descr)
  
 (defparameter *standard-to-pepper-gripper-transform*
   (cl-transforms-stamped:make-identity-transform))

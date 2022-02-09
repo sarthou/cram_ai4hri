@@ -1,4 +1,4 @@
-(in-package :pepper-demo)
+(in-package :ai4hri-demo)
 
 ;; Menu functions start
 (defun menu-one()

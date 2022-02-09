@@ -1,4 +1,4 @@
-(in-package :pepper-demo)
+(in-package :ai4hri-demo)
 
 (def-fact-group product-type-predicates () 
  

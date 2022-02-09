@@ -1,4 +1,4 @@
-(in-package :pepper-demo)
+(in-package :ai4hri-demo)
 
 ;; Global variables
 (defparameter *look-center* nil)

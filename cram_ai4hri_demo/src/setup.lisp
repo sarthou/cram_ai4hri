@@ -1,4 +1,4 @@
-(in-package :pepper-demo)
+(in-package :ai4hri-demo)
 
 (defvar *shelf-urdf* nil)
 (defparameter *robot-parameter* "robot_description")
@@ -66,6 +66,6 @@
  
   (cram-bullet-reasoning:clear-costmap-vis-object)
  
-  (btr:add-objects-to-mesh-list "cram_pepper_demo" :directory "resource" :extension "stl"))
+  (btr:add-objects-to-mesh-list "cram_ai4hri_demo" :directory "resource" :extension "stl"))
  
 (roslisp-utilities:register-ros-init-function init-projection)
