@@ -1,6 +1,6 @@
 ```
-(ros-load:load-system "cram_pepper_demo" :cram-pepper-demo)
-(in-package :pepper-demo)
+(ros-load:load-system "cram_ai4hri_demo" :cram-ai4hri-demo)
+(in-package :ai4hri-demo)
 (roslisp-utilities:startup-ros)
 ```
 
